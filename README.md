@@ -12,7 +12,7 @@ Certifique-se de ter um compilador C++ instalado em sua máquina, como o g++.
 Clone este repositório:
 bash
 Copy code
-git clone https://github.com/Brokenzl/simulador-caixa-eletronico-cpp.git
+git clone https://github.com/Brokenzl/caixaeletronico/tree/main/CaixaEletronico
 Navegue até o diretório do projeto:
 bash
 Copy code
